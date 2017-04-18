@@ -1,0 +1,7 @@
+{
+  "name": "require-no-realpath",
+  "version": "0.0.0",
+  "description": "require modules without resolving their realpath",
+  "main": "index.js",
+  "repository": "laggingreflex/require-no-realpath"
+}
