@@ -3,7 +3,6 @@ const fs = require('fs');
 const stackMatch = `
   at toRealPath (module.js
   at tryFile (module.js
-  at tryPackage (module.js
   at Function.Module._findPath (module.js
   at Function.Module._resolveFilename (module.js
 `
